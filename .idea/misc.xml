@@ -6,9 +6,14 @@
         <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/layout/activity_detail.xml" value="0.20416666666666666" />
         <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
         <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/layout/activity_settings.xml" value="0.20416666666666666" />
-        <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/layout/forecast_list_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/layout/extra_weather_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/layout/forecast_list_item.xml" value="0.25" />
+        <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/layout/list_item_forecast_today.xml" value="0.22" />
         <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/layout/number_list_item.xml" value="0.2384428223844282" />
+        <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/layout/primary_weather_info.xml" value="0.20416666666666666" />
+        <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/layout/x.xml" value="0.20416666666666666" />
         <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/menu/detail_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/menu/forecast.xml" value="0.20416666666666666" />
         <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/menu/main.xml" value="0.20416666666666666" />
         <entry key="..\:/FF/Android_Udacity/Android_Projects/Sunshine/app/src/main/res/xml/preferences.xml" value="0.20416666666666666" />
       </map>

@@ -1,7 +1,9 @@
-package com.example.sunshine;
+package com.example.sunshine.utilities;
 
 import android.content.ContentValues;
 import android.content.Context;
+
+import com.example.sunshine.data.WeatherContract;
 
 import java.util.ArrayList;
 import java.util.List;
